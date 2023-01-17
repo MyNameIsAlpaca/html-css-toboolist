@@ -30,3 +30,28 @@ body {
   margin-top: 20px;
   margin-left: 20px ;
 }
+
+.corpo {
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-left: 250px;
+    padding: 20px 70px;
+    border-radius: 6px;
+}
+
+#first {
+    background-color: #47adf1;
+    color: white;
+}
+
+#second {
+border: 1px solid #cbd0d4;
+color: #cbd0d4;
+}
+
+.section {
+    display: inline-block;
+    padding: 8px;
+    border-radius: 6px;
+}
