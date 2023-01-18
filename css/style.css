@@ -59,11 +59,12 @@ body {
 #first {
     background-color: #47adf1;
     color: white;
+    border-color: #47adf1;
 }
 
 #second {
-border: 1px solid #cbd0d4;
 color: #cbd0d4;
+border-color: #cbd0d4;
 }
 
 .section {
