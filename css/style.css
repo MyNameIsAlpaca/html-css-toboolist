@@ -35,12 +35,20 @@ body {
     margin-top: 50px;
 }
 
+.superiore {
+    background-color: white;
+    border-radius: 6px;
+    max-width: 1000px;
+    margin: 10px auto 10px auto ;
+}
+
 .inferiore {
     background-color: white;
-    margin-right: 250px;
-    margin-left: 250px;
     padding-bottom: 50px;
     border-radius: 6px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0;
 }
 
 #first-line {
